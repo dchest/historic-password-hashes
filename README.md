@@ -31,7 +31,7 @@ Send pull request if you have more.
 
 * [Password Security: A Case History. (PostScript)](http://cm.bell-labs.com/who/dmr/passwd.ps) Robert Morris. Ken Thompson.
   Bell Laboratories. Murray Hill, New Jersey 07974.
-* [Boris Hagelin's C-35 cipher machine (as in Unix V6 crypt)](https://en.wikipedia.org/wiki/C-36_(cipher_machine%29)
+* [Boris Hagelin's M-209 cipher machine (as in Unix V6 crypt)](https://en.wikipedia.org/wiki/M-209)
 * [LM hash](https://en.wikipedia.org/wiki/LM_hash) and [NTLM](https://en.wikipedia.org/wiki/NTLM) on Wikipedia.
 * [Md5crypt Password scrambler is no longer considered safe by author](http://www.freebsd.dk/sagas/md5crypt_eol.html) by Poul-Henning Kamp.
 * [Minix 1.5 password insecurity](https://groups.google.com/d/msg/comp.os.minix/pMD8bSKj0TA/7WFOfOJecEIJ) from comp.os.minix.
