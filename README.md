@@ -4,7 +4,7 @@ This is a collection of historic password hashing algorithms.
 Please do not use most of them today!
 Send pull request if you have more. 
 
-## Unix
+### Unix
 
   * [Unix V6](unix-v6-crypt.c) (1975)
   * [Unix V7 DES-crypt](unix-v7-crypt.c) (1979)
@@ -18,16 +18,16 @@ Send pull request if you have more.
   * (TODO) Sun MD5 ([ref](http://docs.oracle.com/cd/E19253-01/816-5175/crypt-sunmd5-5/index.html),
 	  [source](https://github.com/illumos/illumos-gate/blob/7256a34efe9df75b638b9e812912ef7c5c68e208/usr/src/lib/crypt_modules/sunmd5/sunmd5.c)) (?)
 
-## Oberon
+### Oberon
 
  * [Oberon](oberon.txt) (1990)
 
-## Windows (TODO)
+### Windows (TODO)
 
   * Windows LM-Hash (original: nt4/private/rpc/runtime/security/ntlmssp/owf.c)
   * Windows NT-Hash (original: ?, compatible: <http://svnweb.freebsd.org/base/head/lib/libcrypt/crypt-nthash.c>)
 
-### See Also
+## See Also
 
 * [Password Security: A Case History. (PostScript)](http://cm.bell-labs.com/who/dmr/passwd.ps) Robert Morris. Ken Thompson.
   Bell Laboratories. Murray Hill, New Jersey 07974.
