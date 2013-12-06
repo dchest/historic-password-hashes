@@ -22,10 +22,10 @@ Send pull request if you have more.
 
  * [Oberon](oberon.txt) (1990)
 
-### Windows (TODO)
+### Windows
 
-  * Windows LM-Hash (original: nt4/private/rpc/runtime/security/ntlmssp/owf.c)
-  * Windows NT-Hash (original: ?, compatible: <http://svnweb.freebsd.org/base/head/lib/libcrypt/crypt-nthash.c>)
+  * [Windows LM-Hash](winnt-owf.c) (1991)
+  * (TODO) Windows NT-Hash (original: ?, [compatible](http://svnweb.freebsd.org/base/head/lib/libcrypt/crypt-nthash.c>) (1993)
 
 ## See Also
 
