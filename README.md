@@ -29,8 +29,8 @@ Send pull request if you have more.
 
 ### See Also
 
-* *Password Security: A Case History.* Robert Morris. Ken Thompson. Bell Laboratories. Murray Hill, New Jersey 07974.
-  [PDF](ftp://cm.bell-labs.com/who/dmr/passwd.ps)
+* [Password Security: A Case History. (PostScript)](ftp://cm.bell-labs.com/who/dmr/passwd.ps) Robert Morris. Ken Thompson.
+  Bell Laboratories. Murray Hill, New Jersey 07974.
 * [LM hash](https://en.wikipedia.org/wiki/LM_hash) and [NTLM](https://en.wikipedia.org/wiki/NTLM) on Wikipedia.
 * [Md5crypt Password scrambler is no longer considered safe by author](http://www.freebsd.dk/sagas/md5crypt_eol.html) by Poul-Henning Kamp.
 * [Minix 1.5 password insecurity](https://groups.google.com/d/msg/comp.os.minix/pMD8bSKj0TA/7WFOfOJecEIJ) from comp.os.minix.
