@@ -1,0 +1,16 @@
+(*
+   Extracted from Oberon.Mod.
+   Source: http://www.inf.ethz.ch/personal/wirth/ProjectOberon/Sources/Oberon.Mod.txt
+*)
+
+  PROCEDURE Code(VAR s: ARRAY OF CHAR): LONGINT;
+    VAR i: INTEGER; a, b, c: LONGINT;
+  BEGIN
+    a := 0; b := 0; i := 0;
+    WHILE s[i] # 0X DO
+      c := b; b := a; a := (c MOD 509 + 1) * 127 + ORD(s[i]);
+      INC(i)
+    END;
+    IF b >= 32768 THEN b := b - 65536 END;
+    RETURN b * 65536 + a
+  END Code;
