@@ -8,7 +8,7 @@ Send pull request if you have more.
 
   * [Unix V6](unix-v6-crypt.c) (1975)
   * [Unix V7 DES-crypt](unix-v7-crypt.c) (1979)
-  * [4.4BSD DES-crypt](4.4bsd-crypt.c) (1993)
+  * [Net/2 DES-crypt](net2-crypt.c) (1991)
   * [Minix 1.5](minix1.5-crypt.c) (1994)
   * [Minix 2.0](minix2.0-pwdauth.c) (1994)
   * [FreeBSD 1.1.5 Nate's password scrambler](freebsd1.1.5-crypt.c) (1994)
