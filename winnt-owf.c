@@ -1,5 +1,5 @@
 /*
- * Windows NT LH Hash.
+ * Windows LM Hash.
  * Source: leaked NT source code, nt4/private/rpc/runtime/security/ntlmssp/owf.c
  * Doesn't include DES source code.
  */
