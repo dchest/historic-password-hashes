@@ -29,7 +29,7 @@ Send pull request if you have more.
 
 ### See Also
 
-* [Password Security: A Case History. (PostScript)](ftp://cm.bell-labs.com/who/dmr/passwd.ps) Robert Morris. Ken Thompson.
+* [Password Security: A Case History. (PostScript)](http://cm.bell-labs.com/who/dmr/passwd.ps) Robert Morris. Ken Thompson.
   Bell Laboratories. Murray Hill, New Jersey 07974.
 * [LM hash](https://en.wikipedia.org/wiki/LM_hash) and [NTLM](https://en.wikipedia.org/wiki/NTLM) on Wikipedia.
 * [Md5crypt Password scrambler is no longer considered safe by author](http://www.freebsd.dk/sagas/md5crypt_eol.html) by Poul-Henning Kamp.
