@@ -25,7 +25,7 @@ Send pull request if you have more.
 ### Windows
 
   * [Windows LM-Hash](winnt-owf.c) (1991)
-  * (TODO) Windows NT-Hash (original: ?, [compatible](http://svnweb.freebsd.org/base/head/lib/libcrypt/crypt-nthash.c>) (1993)
+  * (TODO) Windows NT-Hash (original: ?, [compatible open source](http://svnweb.freebsd.org/base/head/lib/libcrypt/crypt-nthash.c>)) (1993)
 
 ## See Also
 
