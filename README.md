@@ -15,8 +15,7 @@ Send pull request if you have more.
   * [FreeBSD 2.0 phk's md5-crypt](freebsd2.0-crypt.c) (1994)
   * [OpenBSD 2.1 bcrypt](openbsd2.1-bcrypt.c) (1997)
   * [glibc SHA crypt](glibc-sha-crypt.txt) (2007)
-  * (TODO) Sun MD5 ([ref](http://docs.oracle.com/cd/E19253-01/816-5175/crypt-sunmd5-5/index.html),
-	  [source](https://github.com/illumos/illumos-gate/blob/7256a34efe9df75b638b9e812912ef7c5c68e208/usr/src/lib/crypt_modules/sunmd5/sunmd5.c)) (?)
+  * [Solaris 9 MU2 Sun MD5](sunmd5.c) (2002)
 
 ### Oberon
 
@@ -36,4 +35,5 @@ Send pull request if you have more.
 * [Md5crypt Password scrambler is no longer considered safe by author](http://www.freebsd.dk/sagas/md5crypt_eol.html) by Poul-Henning Kamp.
 * [Minix 1.5 password insecurity](https://groups.google.com/d/msg/comp.os.minix/pMD8bSKj0TA/7WFOfOJecEIJ) from comp.os.minix. 1992-11-30.
 * [Unix crypt with SHA-256/512](http://www.akkadia.org/drepper/sha-crypt.html). Ulrich Drepper. 2007-09-19.
+* [OpenSolaris, Pluggable Crypt, and the SunMD5 Password Hash Algorithm](http://dropsafe.crypticide.com/article/1389). Alec Muffett. 2005-12-05.
 * [Openwall](http://www.openwall.com/)
