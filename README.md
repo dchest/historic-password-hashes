@@ -14,7 +14,7 @@ Send pull request if you have more.
   * [FreeBSD 1.1.5 Nate's password scrambler](freebsd1.1.5-crypt.c) (1994)
   * [FreeBSD 2.0 phk's md5-crypt](freebsd2.0-crypt.c) (1994)
   * [OpenBSD 2.1 bcrypt](openbsd2.1-bcrypt.c) (1997)
-  * (TODO) glibc SHA2 crypt ([ref](http://www.akkadia.org/drepper/sha-crypt.html)) (2007)
+  * [glibc SHA crypt](glibc-sha-crypt.txt) (2007)
   * (TODO) Sun MD5 ([ref](http://docs.oracle.com/cd/E19253-01/816-5175/crypt-sunmd5-5/index.html),
 	  [source](https://github.com/illumos/illumos-gate/blob/7256a34efe9df75b638b9e812912ef7c5c68e208/usr/src/lib/crypt_modules/sunmd5/sunmd5.c)) (?)
 
