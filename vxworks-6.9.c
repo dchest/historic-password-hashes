@@ -1,3 +1,7 @@
+/*
+ * VxWorks 6.9 password hash.
+ * Source: http://read.pudn.com/downloads115/sourcecode/embed/486003/vxWorks/target/src/ostool/loginLib.c__.htm
+ */
 /****************************************************************************** 
 * 
 * loginDefaultEncrypt - default password encryption routine 
