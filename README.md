@@ -37,4 +37,5 @@ Send pull request if you have more.
 * [Minix 1.5 password insecurity](https://groups.google.com/d/msg/comp.os.minix/pMD8bSKj0TA/7WFOfOJecEIJ) from comp.os.minix. 1992-11-30.
 * [Unix crypt with SHA-256/512](http://www.akkadia.org/drepper/sha-crypt.html). Ulrich Drepper. 2007-09-19.
 * [OpenSolaris, Pluggable Crypt, and the SunMD5 Password Hash Algorithm](http://dropsafe.crypticide.com/article/1389). Alec Muffett. 2005-12-05.
+* [Shiny Old VxWorks Vulnerabilities](https://blog.rapid7.com/2010/08/02/shiny-old-vxworks-vulnerabilities/). 2010-08-02.
 * [Openwall](http://www.openwall.com/)
