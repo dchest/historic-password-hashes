@@ -29,7 +29,7 @@ Send pull request if you have more.
 
 ## See Also
 
-* [Password Security: A Case History. (PostScript)](http://cm.bell-labs.com/who/dmr/passwd.ps) Robert Morris. Ken Thompson.
+* [Password Security: A Case History. (PDF)](https://dl.acm.org/doi/pdf/10.1145/359168.359172) Robert Morris. Ken Thompson.
   Bell Laboratories. Murray Hill, New Jersey 07974.
 * [Boris Hagelin's M-209 cipher machine (as in Unix V6 crypt)](https://en.wikipedia.org/wiki/M-209)
 * [LM hash](https://en.wikipedia.org/wiki/LM_hash) and [NTLM](https://en.wikipedia.org/wiki/NTLM) on Wikipedia.
