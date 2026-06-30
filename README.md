@@ -15,8 +15,8 @@ Send pull request if you have more.
   * [FreeBSD 1.1.5 Nate's password scrambler](freebsd1.1.5-crypt.c) (1994)
   * [FreeBSD 2.0 phk's md5-crypt](freebsd2.0-crypt.c) (1994)
   * [OpenBSD 2.1 bcrypt](openbsd2.1-bcrypt.c) (1997)
-  * [glibc SHA crypt](glibc-sha-crypt.txt) (2007)
   * [Solaris 9 MU2 Sun MD5](sunmd5.c) (2002)
+  * [glibc SHA crypt](glibc-sha-crypt.txt) (2007)
 
 ### Windows
 
