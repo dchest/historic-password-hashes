@@ -6,6 +6,7 @@ Send pull request if you have more.
 
 ### Unix
 
+  * [Unix V4](unix-v4-crypt.s) (1974)
   * [Unix V6](unix-v6-crypt.c) (1975)
   * [Unix V7 DES-crypt](unix-v7-crypt.c) (1979)
   * [Net/2 DES-crypt](net2-crypt.c) (1991)
