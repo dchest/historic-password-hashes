@@ -32,6 +32,7 @@ Send pull request if you have more.
 
 * [Password Security: A Case History. (PDF)](https://dl.acm.org/doi/pdf/10.1145/359168.359172) Robert Morris. Ken Thompson.
   Bell Laboratories. Murray Hill, New Jersey 07974.
+* [Dabbling in the Cryptographic World--A Story](https://web.archive.org/web/20150611114351/https://www.bell-labs.com/usr/dmr/www/crypt.html) by Dennis Ritchie.
 * [Boris Hagelin's M-209 cipher machine (as in Unix V6 crypt)](https://en.wikipedia.org/wiki/M-209)
 * [LM hash](https://en.wikipedia.org/wiki/LM_hash) and [NTLM](https://en.wikipedia.org/wiki/NTLM) on Wikipedia.
 * [Md5crypt Password scrambler is no longer considered safe by author](http://www.freebsd.dk/sagas/md5crypt_eol.html) by Poul-Henning Kamp.
